@@ -1,0 +1,12 @@
+package-lock.json
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+/test-reports
+
+/dist
+/node_modules
+/platforms
+/plugins
+/www
